@@ -4,8 +4,8 @@
   <Balloon>
     <ID>1</ID>
     <name>balloon 1</name>
-    <desc>description of balloon 1. 2017-09-19</desc>
-    <price>0.9</price>
+    <desc>description of balloon 1</desc>
+    <price>0</price>
   </Balloon>
   <Balloon>
       <ID>2</ID>
@@ -16,7 +16,7 @@
   <Balloon>
       <ID>3</ID>
       <name>balloon 3</name>
-      <desc>description of Balloon 3</desc>
+      <desc>description of Balloon 3. 2017-09-19</desc>
       <price>1.9</price>
   </Balloon>
   <Balloon>
